@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,400;0,700;1,300;1,400&family=Nunito:ital,wght@0,200;0,300;0,400;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800&family=Ravi+Prakash&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+ body{
+  font-family: 'B612', sans-serif;
+  /* background: rgb(148,118,207); */
+  background: rgb(112,109,119);
+  background: linear-gradient(90deg, rgba(112,109,119,0.36458333333333337) 0%, rgba(78,92,92,0.6811099439775911) 35%, rgba(60,62,62,1) 100%);
+}
+ h3{
+  font-family: 'Ravi Prakash', cursive;
+ }
+ .form-control{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+ }
